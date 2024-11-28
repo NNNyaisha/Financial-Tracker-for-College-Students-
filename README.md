@@ -1,1 +1,2 @@
 # Financial-Tracker-for-College-Students-
+#Many students struggle with managing their finances in college. For the majority, this is the first time they’ve had to deal with loans, FAFSA, and scholarships.  They often face challenges in setting realistic budgets, tracking scholarships, and understanding how much they really need. This causes students to apply for too many loans, which can cause unnecessary debt.
